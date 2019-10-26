@@ -21,7 +21,7 @@ The code was intended for Unity 2018.3.6f1 Personal. It has not been optimized f
 ---- REDISTRIBUTION ----
 Please give me credit if you find use for any of my code. I would also appreciate criticism.
 
-The game's code was created by me. You can contact me at flak.ultra@gmail.com.
+The game's code was created by me. You can contact me at nathankoehle@gmail.com.
 
 ---- CREDITS ----
 Nathan Koehler
