@@ -2,7 +2,7 @@
 All the code used for the 2018 FBLA Game - 7th at GA State Conference
 
 ---- GENERAL INFO ----
-This game was solely coded in C## over the course of several months. I was still learning C## and much of the code is not optomized.
+This game was solely coded in C# over the course of several months. I was still learning C# and much of the code is not optomized.
 
 The code was particularly designed to be judged off its readability per say, but many of the scripts contain similar organization.
 
