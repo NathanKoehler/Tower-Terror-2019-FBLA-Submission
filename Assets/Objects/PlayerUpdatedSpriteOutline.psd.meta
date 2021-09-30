@@ -1,0 +1,2031 @@
+fileFormatVersion: 2
+guid: 4b4becae1dbf8af49ac76b68d8eaeee5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerUpdatedSpriteOutline_0
+    21300002: PlayerUpdatedSpriteOutline_1
+    21300004: PlayerUpdatedSpriteOutline_2
+    21300006: PlayerUpdatedSpriteOutline_3
+    21300008: PlayerUpdatedSpriteOutline_4
+    21300010: PlayerUpdatedSpriteOutline_5
+    21300012: PlayerUpdatedSpriteOutline_6
+    21300014: PlayerUpdatedSpriteOutline_7
+    21300016: PlayerUpdatedSpriteOutline_8
+    21300018: PlayerUpdatedSpriteOutline_9
+    21300020: PlayerUpdatedSpriteOutline_10
+    21300022: PlayerUpdatedSpriteOutline_11
+    21300024: PlayerUpdatedSpriteOutline_12
+    21300026: PlayerUpdatedSpriteOutline_13
+    21300028: PlayerUpdatedSpriteOutline_14
+    21300030: PlayerUpdatedSpriteOutline_15
+    21300032: PlayerUpdatedSpriteOutline_16
+    21300034: PlayerUpdatedSpriteOutline_17
+    21300036: PlayerUpdatedSpriteOutline_18
+    21300038: PlayerUpdatedSpriteOutline_19
+    21300040: PlayerUpdatedSpriteOutline_20
+    21300042: PlayerUpdatedSpriteOutline_21
+    21300044: PlayerUpdatedSpriteOutline_22
+    21300046: PlayerUpdatedSpriteOutline_23
+    21300048: PlayerUpdatedSpriteOutline_24
+    21300050: PlayerUpdatedSpriteOutline_25
+    21300052: PlayerUpdatedSpriteOutline_26
+    21300054: PlayerUpdatedSpriteOutline_27
+    21300056: PlayerUpdatedSpriteOutline_28
+    21300058: PlayerUpdatedSpriteOutline_29
+    21300060: PlayerUpdatedSpriteOutline_30
+    21300062: PlayerUpdatedSpriteOutline_31
+    21300064: PlayerUpdatedSpriteOutline_32
+    21300066: PlayerUpdatedSpriteOutline_33
+    21300068: PlayerUpdatedSpriteOutline_34
+    21300070: PlayerUpdatedSpriteOutline_35
+    21300072: PlayerUpdatedSpriteOutline_36
+    21300074: PlayerUpdatedSpriteOutline_37
+    21300076: PlayerUpdatedSpriteOutline_38
+    21300078: PlayerUpdatedSpriteOutline_39
+    21300080: PlayerUpdatedSpriteOutline_40
+    21300082: PlayerUpdatedSpriteOutline_41
+    21300084: PlayerUpdatedSpriteOutline_42
+    21300086: PlayerUpdatedSpriteOutline_43
+    21300088: PlayerUpdatedSpriteOutline_44
+    21300090: PlayerUpdatedSpriteOutline_45
+    21300092: PlayerUpdatedSpriteOutline_46
+    21300094: PlayerUpdatedSpriteOutline_47
+    21300096: PlayerUpdatedSpriteOutline_48
+    21300098: PlayerUpdatedSpriteOutline_49
+    21300100: PlayerUpdatedSpriteOutline_50
+    21300102: PlayerUpdatedSpriteOutline_51
+    21300104: PlayerUpdatedSpriteOutline_52
+    21300106: PlayerUpdatedSpriteOutline_53
+    21300108: PlayerUpdatedSpriteOutline_54
+    21300110: PlayerUpdatedSpriteOutline_55
+    21300112: PlayerUpdatedSpriteOutline_56
+    21300114: PlayerUpdatedSpriteOutline_57
+    21300116: PlayerUpdatedSpriteOutline_58
+    21300118: PlayerUpdatedSpriteOutline_59
+    21300120: PlayerUpdatedSpriteOutline_60
+    21300122: PlayerUpdatedSpriteOutline_61
+    21300124: PlayerUpdatedSpriteOutline_62
+    21300126: PlayerUpdatedSpriteOutline_63
+    21300128: PlayerUpdatedSpriteOutline_64
+    21300130: PlayerUpdatedSpriteOutline_65
+    21300132: PlayerUpdatedSpriteOutline_66
+    21300134: PlayerUpdatedSpriteOutline_67
+    21300136: PlayerUpdatedSpriteOutline_68
+    21300138: PlayerUpdatedSpriteOutline_69
+    21300140: PlayerUpdatedSpriteOutline_70
+    21300142: PlayerUpdatedSpriteOutline_71
+    21300144: PlayerUpdatedSpriteOutline_72
+    21300146: PlayerUpdatedSpriteOutline_73
+    21300148: PlayerUpdatedSpriteOutline_74
+    21300150: PlayerUpdatedSpriteOutline_75
+    21300152: PlayerUpdatedSpriteOutline_76
+    21300154: PlayerUpdatedSpriteOutline_77
+    21300156: PlayerUpdatedSpriteOutline_78
+    21300158: PlayerUpdatedSpriteOutline_79
+    21300160: PlayerUpdatedSpriteOutline_80
+    21300162: PlayerUpdatedSpriteOutline_81
+    21300164: PlayerUpdatedSpriteOutline_82
+    21300166: PlayerUpdatedSpriteOutline_83
+    21300168: PlayerUpdatedSpriteOutline_84
+    21300170: PlayerUpdatedSpriteOutline_85
+    21300172: PlayerUpdatedSpriteOutline_86
+    21300174: PlayerUpdatedSpriteOutline_87
+    21300176: PlayerUpdatedSpriteOutline_88
+    21300178: PlayerUpdatedSpriteOutline_89
+    21300180: PlayerUpdatedSpriteOutline_90
+    21300182: PlayerUpdatedSpriteOutline_91
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d517e3679988e4cb35f2fcbc7d1c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f957d84e18864bb7d38b851e17008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71f1fe3693204340bb858808003b332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af49dacc241ca542be4ebfba2bf7969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee4e4c64de9dbd4b8b907f5a7f9b02a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca909db966c85e0468e69473e8e814c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6963b1e7cdab8934ab8dc56c45ff067f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 432
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809820f988cd43846b3ee506cab6aa5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 432
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfb13d086accb749b64fa2f68294606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 432
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3088724831fd9b74dbed1068efc69afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 432
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c23403933a79e45afdbbfa40fa6664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 432
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e571890a69ec3049bf2b9b9043e7ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c15198d40a4da448d2ac8b9a15615b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 408
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f76c86e7aed0154199292b6e6785820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 408
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b633c8001e642714e8cc370cc6d6cbfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 408
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79102cdfc3ff853469a9540f97a004a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 408
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c951de0705ccb4689adb21a80b7f55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 408
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ff68c6d6b37a409cdecfa71bbe61b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a46548425420d44ae7109423baf846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 384
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d198d3855e08174f8ea0e077089564c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 384
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d947c42588cc14095371c86ba24f96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 384
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4fe65a23c673d47aa476711d57d092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a912deb5a94691b43b90eec63df84ee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 360
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e551e6bd3019ced4dbb0964ff14a2c3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 360
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86739c20033ed60478b66e48553e7709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 360
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f2fb88a1e95c64e8355c4e37592da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272d2ce007be9d94c8f50c2ea94ea202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 336
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a363696f125949871f9c09930ced2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 336
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa670649080678540906971a3bdfef25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 336
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07581e57df26840a048fe88b5fe1e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c5ce0d77ea5a34a905807d2cac87e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 312
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20d200bff5ff14992b00e4d5bdc485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 312
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b1030c4b838c4f81bfd1b62a494f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 312
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21857db25fc5caa4eba23e97d21a837a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 312
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8843f466a951aa4e9c755847068d894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 312
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef562fddfaba1547af7f6bd97c3d8d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dca087e704d30439ce0eb41e44ebca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 288
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635cb436c51b7844eac1501cec5740d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 288
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b97212319ce54ea9bee3be92e34d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 288
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5eace37661ef24ea7de413ae6b68c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 288
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4177b31754accb438a1477847803df2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 288
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c781fad936d25c44eb0b9bcfbfafdb08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee567eb1dfcf94391884329abd2969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 264
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab78ab790dee7134398e1a2b174a2a6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 264
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b6af9ef30af6d4f822a0361d325484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 264
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e57fb74512f347a0140410982ce63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41de5414eb33d48438e0a206ac06a05b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_47
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 240
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd952010a4425f541a0fab70567a9afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 240
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efe3871dd71b8948a66ad9ff16c139f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 240
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acd4d7681f6bf1498dc80f85728f8b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 240
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421a974f59be8741a0f47b2700b9f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 240
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed452b1b5ee1c04e8aae21f7c8b3da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a51434cc79e41488cef53746c8d8b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 216
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c97c404955014e91e42f1919804ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_54
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 216
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b45b86720040fa499edfa99bf815b2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 216
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e01435975ed5f4686f4e17ae336175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 216
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541d72f4b41d2d24da3533e62e5f9d47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 216
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f13c1f5eeebc94bb806d692eaf1d29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8581a8467c78f74d8e4e4d4066572e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_59
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dd3d4e4c1869048901f8191d1836b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ebf6c2e1915404e81357b0a1b7a515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf5fb7dae464840b2e1bbaf6605f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1b92fdc3e2a1040a7404afe54dae60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_63
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 168
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d30433a298932440a3a6dac834fc569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_64
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 168
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c1edc8ac020db4c95c060685740ecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_65
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 168
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab0e8ffd9628754686d305481999ec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e4d624caf1199488971ab030f07054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37da6ec8c10dc546938b5f447544d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668a15052c332834cae0ff2ed07029b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 144
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754a2f10eaae3dc41bec37fe38f2bf4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 144
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e377e84be3569c458c9968fc53447f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 144
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42f207e5c2fdc441aacc1bfa82eef52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 144
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c1981665f561440b38a125e4fe03b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66584e1de1281084ba1ef577cbe5ec48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249665db791e44c46bca616847ad42cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_75
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87414bfc7eba854b93c66b17e48228b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4854e82814070034abd8e7f91216b08a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c21a22a2f6de84d9948e0e3c6417e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_78
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82973e229ffecd744a2e265d453667c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fdfeef61eff06459194e3c66095d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6803e13444bf32644a056641c6613d51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 96
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d94d30fd70d7584c8b6b853693bfb48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_82
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0770ac1ca3086c841b4b86b553b09573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 96
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f045b190109a58a468df964d598c90a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d23be816b74fb41b1ad523c0c1c067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 72
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef4164b83faab4289a689f0e41635b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ac4a116a7558a419212ed0dcade509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 72
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70a524cf896c174fb165d607fe6907c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bf5e7da1de3a946b0d5021b48e16c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_89
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 48
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca4e725c0a02b649a22b52aff6e034f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 48
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5504ec5b37aaa454b94e370ec6fa91e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUpdatedSpriteOutline_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 48
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff818b14a22cd1428f0f5f89ae72589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1f3e8a10b481c634d8ad5c992cd101fe
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

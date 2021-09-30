@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collision
+  - Bullet
+  - Enemy
+  - Furniture
+  - Layout
+  - Collectable
+  - Staple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collidable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Elevator
+    uniqueID: 2500968809
+    locked: 0
+  - name: Floor
+    uniqueID: 1949127293
+    locked: 0
+  - name: B Player
+    uniqueID: 2984939653
+    locked: 0
+  - name: Player
+    uniqueID: 1412005031
+    locked: 0
+  - name: F Player
+    uniqueID: 895288845
+    locked: 0
+  - name: Bullets
+    uniqueID: 1673831617
+    locked: 0
+  - name: Top Furniture
+    uniqueID: 123195541
+    locked: 0

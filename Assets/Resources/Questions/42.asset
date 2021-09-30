@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f2d274d069b364488f3c784f28f6e9f, type: 3}
+  m_Name: 42
+  m_EditorClassIdentifier: 
+  id: 42
+  difficulty: 0
+  question: How can you contact the communications coordinator?
+  answer: Email communications@fbla.org
+  fakeAnswer1: Call the FBLA contact phone number
+  fakeAnswer2: Send a letter with a return address to the national office
+  fakeAnswer3: 'Email another administrator asking to be redirected '
